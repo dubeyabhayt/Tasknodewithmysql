@@ -1,0 +1,20 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "task for my sql",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "task"
+  },
+  "author": "abhay",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.4"
+  }
+}
